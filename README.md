@@ -28,10 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yoursandeshshrestha/yoursandeshshrestha/output/snake.svg" alt="Snake animation" />
-
-###
-###
