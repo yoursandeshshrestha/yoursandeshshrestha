@@ -31,4 +31,7 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/yoursandeshshrestha/yoursandeshshrestha/output/snake.svg" alt="Snake animation" />
+
+###
 ###
