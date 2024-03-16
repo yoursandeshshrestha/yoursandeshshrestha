@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sandesh Shrestha and I'm a currently pursuing my degree on Computer Appliction, <br> from Inspiria Knowlegde Campus</p>
+<p align="left">My name is Sandesh Shrestha and I'm a currently pursuing my degree on Computer Application, <br> from Inspiria Knowlegde Campus.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning front-end development <br>🎯 Goals: Become a top developer so AI won't take my place. <br>🎲 Fun fact: I question everything. </p>
+<p align="left">📚 I'm currently learning front-end development. <br>🎯 Goals: Become a top developer so AI won't take my place. <br>🎲 Fun fact: I question everything. </p>
 
 ###
 
