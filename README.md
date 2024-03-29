@@ -49,3 +49,11 @@
   <img src="https://www.svgrepo.com/show/303503/shopify-logo.svg" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
+
+###
+
+Contact 
+
+###
+
+DM me on [LinkedIn](https://www.linkedin.com/in/sandesh-shrestha-b829572b0/).
