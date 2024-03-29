@@ -52,8 +52,8 @@
 
 ###
 
-<h2>Contact ✉️ </h2>
+<h2>Contact</h2>
 
 ###
 
-DM me on [LinkedIn](https://www.linkedin.com/in/sandesh-shrestha-b829572b0/).
+DM me on [LinkedIn](https://www.linkedin.com/in/sandesh-shrestha-b829572b0/). ✉️ 
