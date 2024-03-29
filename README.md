@@ -52,7 +52,7 @@
 
 ###
 
-Contact 
+<h2>Contact ✉️ </h2>
 
 ###
 
