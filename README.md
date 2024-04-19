@@ -2,11 +2,7 @@
 
 ###
 
-<p align="left">I'm Sandesh Shrestha, a developer from Siliguri, India.
-
-I'm primarily interested in full-stack development and currently learning it.
-
-Outside of Learning and Creating, I'm interested in science, space, technology and ancient history. I also play a video games sometime.</p>
+<p align="left">I'm Sandesh Shrestha, a developer from Siliguri, India. I'm primarily interested in full-stack development and currently learning it. Outside of Learning and Creating, I'm interested in science, space, technology and ancient history. I also play a video games sometime.</p>
 
 ###
 
@@ -14,7 +10,7 @@ Outside of Learning and Creating, I'm interested in science, space, technology a
 
 ###
 
-**Frontend Development:** `JavaScript` `Css3` `Html5` `Bootstarp`
+**Frontend Development:** `JavaScript` `Css3` `Html5` `Bootstarp` <br>
 **Version Control:** `Git` `GitLab`
 
 <h2 align="left">Familier with</h2>
