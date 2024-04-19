@@ -1,26 +1,36 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">👋 Hey there! </h2>
 
-###
+I'm Sandesh Shrestha, a passionate developer from Siliguri, India. Primarily interested in **full-stack development** <br>
+and always exploring new technologies. Fascinated by science, space, technology, and ancient history. <br>
+Love playing video games sometimes 🎮
 
-<p align="left">I'm Sandesh Shrestha, a developer from Siliguri, India. I'm primarily interested in full-stack development and currently learning it. Outside of Learning and Creating, I'm interested in science, space, technology and ancient history. I also play a video games sometime.</p>
+### Technology 
 
-###
+**Advanced:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite.js" />
+</p>
 
-<h2 align="left">Tech</h2>
+**Basic:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+</p>
 
-###
+<h3 align="left">Let's Connect!</h3>
 
-**Frontend Development:** `JavaScript` `Css3` `Html5` `Bootstarp` <br>
-**Version Control:** `Git` `GitLab`
-
-<h2 align="left">Familier with</h2>
-
-###
-`Python` `Wordpress` `Figma`
-###
-
-<h2>Contact</h2>
-
-###
-
-DM me on [LinkedIn](https://www.linkedin.com/in/sandesh-shrestha-b829572b0/). ✉️ 
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sandesh-shrestha-b829572b0/). ✉️ 
