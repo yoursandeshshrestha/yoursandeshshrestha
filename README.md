@@ -6,7 +6,7 @@ Love playing video games sometimes 🎮
 
 ### Technology 
 
-**Advanced:**
+**Intermediate & Advance knowledge on:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
@@ -23,7 +23,7 @@ Love playing video games sometimes 🎮
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite.js" />
 </p>
 
-**Basic:**
+**Basic knowledge on:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
