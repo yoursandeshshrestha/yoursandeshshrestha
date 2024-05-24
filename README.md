@@ -3,6 +3,11 @@
 I'm Sandesh Shrestha, a passionate developer from Siliguri, India. Primarily interested in **full-stack development** <br>
 and always exploring new technologies. Fascinated by science, space, technology, and ancient history. <br>
 Love playing video games sometimes 🎮
+<br>
+
+[Portfolio](https://sandeshshrestha.vercel.app/) <img src="https://img.icons8.com/ios-filled/50/000000/link.png" height="10" alt="JavaScript" />
+  <img width="12" />
+
 
 ### Technology 
 
