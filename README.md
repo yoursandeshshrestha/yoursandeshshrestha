@@ -3,9 +3,9 @@
 I'm a Fullstack Developer with experience in building dynamic web applications. I love exploring new technologies and continuously improving my skills. 
 <p>
   <a href="yoursandeshshrestha@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
-  <a href="https://x.com/sanidhyaa_web" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> 
-  <a href="https://www.linkedin.com/in/sanidhyasingh0101/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://portfolio-website-xi-ebon.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white&backgroundColor=black" /></a>
+  <a href="https://x.com/yoursandeshdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> 
+  <a href="https://www.linkedin.com/in/sandeshshresthadev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://sandeshshrestha.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white&backgroundColor=black" /></a>
 </p>
 
 ## My Tech Stack
