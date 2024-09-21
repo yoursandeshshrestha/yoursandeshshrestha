@@ -1,5 +1,7 @@
 # 👋Hi there, This is Sandesh Shrestha
-### <em>Fullstack Developer</em>
+
+![](https://komarev.com/ghpvc/?username=yoursandeshshrestha&color=green)
+### <em>Fullstack Developer</em> 
 I'm a Fullstack Developer with experience in building dynamic web applications. I love exploring new technologies and continuously improving my skills. 
 <p>
   <a href="yoursandeshshrestha@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
