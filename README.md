@@ -1,6 +1,7 @@
 # 👋Hi there, This is Sandesh Shrestha
 
 ![](https://komarev.com/ghpvc/?username=yoursandeshshrestha&color=green)
+
 ### <em>Fullstack Developer</em> 
 I'm a Fullstack Developer with experience in building dynamic web applications. I love exploring new technologies and continuously improving my skills. 
 <p>
@@ -33,6 +34,8 @@ I'm a Fullstack Developer with experience in building dynamic web applications. 
 <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" height="30px" />
 </p>
 
+![](https://github-profile-trophy.vercel.app/?username=yoursandeshshrestha&theme=darkhub)
+
 <div style="display: flex; width: 100%">
   <div style="width: 50%; text-align: center;">
     <h3>Contributions</h3>
@@ -43,6 +46,10 @@ I'm a Fullstack Developer with experience in building dynamic web applications. 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs" style="width: 40%;"/>
   </div>
 </div>
+
+
+
+
 
 
 
