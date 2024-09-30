@@ -1,11 +1,11 @@
-# 👋Hi there, This is Sandesh Shrestha
+# Hi there, This is Sandesh Shrestha
 
 ![](https://komarev.com/ghpvc/?username=yoursandeshshrestha&color=green)
 
-### <em>Fullstack Developer</em> 
-I'm a Fullstack Developer with experience in building dynamic web applications. I love exploring new technologies and continuously improving my skills. 
+### <em>Software Development Engineer</em> 
+I love exploring new technologies and continuously improving my skills. 
 <p>
-  <a href="yoursandeshshrestha@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+  <a href="mailto:yoursandeshshrestha@gmail.com" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
   <a href="https://x.com/yoursandeshdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" /></a> 
   <a href="https://www.linkedin.com/in/sandeshshresthadev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://sandeshshrestha.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white&backgroundColor=black" /></a>
@@ -34,18 +34,24 @@ I'm a Fullstack Developer with experience in building dynamic web applications. 
 <img alt="Framer Motion" src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" height="30px" />
 </p>
 
+## Trophy
 ![](https://github-profile-trophy.vercel.app/?username=yoursandeshshrestha&theme=darkhub)
 
-<div style="display: flex; width: 100%">
-  <div style="width: 50%; text-align: center;">
-    <h3>Contributions</h3>
-    <img src="https://streak-stats.demolab.com/?user=yoursandeshshrestha&theme=radical" alt="GitHub Streak" style="width: 40%;"/>
-  </div>
-  <div style="width: 50%; text-align: center;">
-    <h3>Most Used Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs" style="width: 40%;"/>
-  </div>
-</div>
+## Most Used Languages and Contributions
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs" width="400" height="200"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=yoursandeshshrestha&theme=radical" alt="GitHub Streak" width="510" height="290"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 
