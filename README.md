@@ -6,10 +6,8 @@ My main focus is on writing clean, maintainable code, using simplicity to achiev
 
 ![](https://komarev.com/ghpvc/?username=yoursandeshshrestha&color=green)
 
-<details>
-<summary>⚡️ More about my coding life and social </summary>
+**⚡️Tech i have worked with**
 <br />
-  
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
@@ -46,27 +44,4 @@ My main focus is on writing clean, maintainable code, using simplicity to achiev
 <img alt="SQL" src="https://img.shields.io/badge/-mySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs"  height="195" />
-  <img src="https://streak-stats.demolab.com/?user=yoursandeshshrestha&theme=radical" alt="GitHub Streak"/>
-</div>
-
 </br>
-
-<p>
-  <a href="mailto:yoursandeshshrestha@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/yoursandeshdev" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/twitter-ffffff.svg?&style=for-the-badge&logo=X&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandeshshresthadev/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://sandeshshrestha.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=Google-chrome&logoColor=white&backgroundColor=black" />
-  </a>
-</p>
-
-
-</details>
