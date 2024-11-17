@@ -47,7 +47,7 @@ My main focus is on writing clean, maintainable code, using simplicity to achiev
 <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
 </p>
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs"  height="195" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoursandeshshrestha&layout=compact&theme=radical" alt="Top Langs"  height="195" />
   <img src="https://streak-stats.demolab.com/?user=yoursandeshshrestha&theme=radical" alt="GitHub Streak"/>
 </div>
 
